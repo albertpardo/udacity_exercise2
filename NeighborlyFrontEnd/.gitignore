@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Azure Functions artifacts
+bin
+obj
+appsettings.json
+local.settings.json
+.python_packages
+
+# MacOs
+.DS_Store
+
+#VSCode
+.vscode/
+
+# Azure App Service artifacts
+.azure
+
+#bash files
+.sh
